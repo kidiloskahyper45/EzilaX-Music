@@ -1,6 +1,6 @@
 <h1 align="centre">EzilaX-Music 🎵</h1>  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Sew451/EzilaX-Music?label=Repo%20Size)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/EzilaX-Music?label=Repo%20Size)
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 ### Available on telegram as [@EzilaXMBot](https://t.me/EzilaXMBot)
