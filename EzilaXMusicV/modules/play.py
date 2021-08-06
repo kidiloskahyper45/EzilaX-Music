@@ -738,7 +738,7 @@ async def play(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="▶️ <b>Playing</b> here the song requested by {} via <b>Anki Vector Music</b> 😎".format(message.from_user.mention()),
+            caption="▶️ <b>Playing</b> here the song requested by {} via <b>EzilaX Music</b> 😎".format(message.from_user.mention()),
         )
         os.remove("final.png")
         return await lel.delete()
@@ -895,7 +895,7 @@ async def ytplay(_, message: Message):
         await message.reply_photo(
             photo="final.png",
             reply_markup=keyboard,
-            caption="▶️ <b>Playing</b> here the song requested by {} via <b>Anki Vector Music</b> 😎".format(message.from_user.mention()),
+            caption="▶️ <b>Playing</b> here the song requested by {} via <b>EzilaX Music</b> 😎".format(message.from_user.mention()),
         )
         os.remove("final.png")
         return await lel.delete()
