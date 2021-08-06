@@ -1,1 +1,1 @@
-worker: python3 -m EzilaX-Music
+worker: python3 -m EzilaXMusicV
