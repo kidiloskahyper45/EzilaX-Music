@@ -35,7 +35,7 @@ def _start(client, message):
                         "Support Group", url=f"https://t.me/{SUPPORT_GROUP}")
                 ],[
                     InlineKeyboardButton(
-                        "Bots Channel", url=f"https://t.me/SDBOTs_Inifinity")
+                        "Bots Channel", url=f"https://t.me/rosebakthan")
                 ]
             ]
         ),
